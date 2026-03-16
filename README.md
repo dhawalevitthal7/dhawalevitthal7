@@ -169,7 +169,6 @@ print(me.current_focus)
 
 🎓 **Merit Scholarship (2023–24)** — Highest CET score in incoming cohort at RCOEM  
 🥈 **Hackathon Runner-Up** — P.R. Pote College of Engineering & Management, Amravati  
-📂 **Active Open-Source Contributor** — Maintaining documented AI-agent repositories  
 👨‍💼 **Team Lead** — Coordinated cross-functional teams of 40+ members at college events  
 
 </div>
