@@ -25,14 +25,14 @@ class VitthalDhawale:
         self.name        = "Vitthal Dhawale"
         self.role        = "AI/ML Engineer & Backend Developer"
         self.university  = "RCOEM — B.Tech CSE (AI & ML)"
-        self.year        = "Pre-Final Year (3rd Year)"
-        self.cgpa        = 8.86
+        self.year        = "Final Year"
+        self.cgpa        = 8.9
         self.location    = "Nagpur, Maharashtra 🇮🇳"
 
     @property
     def current_focus(self):
         return [
-            "🤖 Building Autonomous AI Agents with LangGraph",
+            "🤖 Building Autonomous AI Agents",
             "🧬 Designing RAG Pipelines & Vector Search Systems",
             "⚙️  Crafting Scalable FastAPI + LLM Backends",
             "🔬 AI-Powered Test Automation & QA Tooling",
